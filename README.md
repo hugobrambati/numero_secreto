@@ -5,10 +5,15 @@
 
 ## Tecnologia
 
+
+## Tela Principal
 <div>
   <img src = "./img/pagina_principal.png">
 </div>
 
 # Time
+
+<img src = "./img/foto_perfil 500.jpg">
+### Hugo Brambati
 
 |:---:| :---: |

@@ -6,7 +6,7 @@
 ## Tecnologia
 
 <div>
-  <img src"#">
+  <img src = "./img/pagina_principal.png">
 </div>
 
 # Time

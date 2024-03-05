@@ -13,7 +13,7 @@
 
 # Time
 
-<img src = "./img/foto_perfil 500.jpg">
+<img src = "./img/foto_perfil 500.jpg" widt = "150px">
 ### Hugo Brambati
 
 |:---:| :---: |
